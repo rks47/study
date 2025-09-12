@@ -1,5 +1,5 @@
 # linux kernel
-linux internel
+linux internal
 https://www.youtube.com/watch?v=BU9m45WWqjM&list=PLWK00SLo2KcQi1hlP2_allMWeG19MkQa7
 
 
@@ -25,7 +25,7 @@ Linux Kernel Programming
 
 
 
-Linux Kernel developement 
+Linux Kernel development 
 https://www.youtube.com/watch?v=aBh1DDiOMsI&list=PLsI2APLEA9Eq6z8zUlOJrqmc5KBwLTV4A&index=1
 
 Interrupt Handling |
