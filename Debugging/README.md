@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=aUGNDJPpUUg
 
  Getting to Know the Linux Kernel: A Beginner's Guide - Kelsey Steele & Nischala Yelchuri, Microsoft 
  https://www.youtube.com/watch?v=QatE61Ynwrw
+
+ A Journey into Linux Interrupt Handling Bottom Halves - Allen Pais, Microsoft 
+ https://www.youtube.com/watch?v=kC-SB8k02aE

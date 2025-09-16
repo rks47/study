@@ -1,5 +1,5 @@
 # linux kernel
-linux internal
+linux internel
 https://www.youtube.com/watch?v=BU9m45WWqjM&list=PLWK00SLo2KcQi1hlP2_allMWeG19MkQa7
 
 
@@ -25,7 +25,7 @@ Linux Kernel Programming
 
 
 
-Linux Kernel development 
+Linux Kernel development
 https://www.youtube.com/watch?v=aBh1DDiOMsI&list=PLsI2APLEA9Eq6z8zUlOJrqmc5KBwLTV4A&index=1
 
 Interrupt Handling |
@@ -36,3 +36,7 @@ https://www.youtube.com/watch?v=JHs5stX69GA
 
 Virtual Memory
  https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX
+
+
+In-depth: ELF - The Extensible & Linkable Format
+ https://www.youtube.com/watch?v=nC1U1LJQL8o
