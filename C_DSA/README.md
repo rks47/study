@@ -16,3 +16,21 @@ https://www.scribd.com/document/851173181/Linux-Device-Driver-Embedded-C-Intervi
 
 offsetof
 https://www.youtube.com/watch?v=txf92femaGM
+
+
+Detect Loop in Linked List | Linked List Cycle | Floyd's algorithm | C++
+https://www.youtube.com/watch?v=Te4uUznyvQw
+
+Find Length of Loop in Linked List | C++
+https://www.youtube.com/watch?v=Lk2qxxdTvXQ
+
+
+linked lists in C
+https://www.youtube.com/watch?v=uBZHMkpsTfg&list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl
+
+Pointer
+https://www.youtube.com/watch?v=zJzpCorv1JQ&list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbAtc8
+
+
+CodeVault
+https://www.youtube.com/@CodeVault/playlists
