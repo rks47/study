@@ -40,3 +40,6 @@ Virtual Memory
 
 In-depth: ELF - The Extensible & Linkable Format
  https://www.youtube.com/watch?v=nC1U1LJQL8o
+
+
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
