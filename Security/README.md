@@ -3,6 +3,8 @@
 
 [NPTEL](https://nptel.ac.in/courses/106106199)
 
+[Trusted Firmware](https://trustedfirmware-a.readthedocs.io/en/latest/index.html)
+
 # Hypervisor for ARM EL2
 
 [XEN](https://wiki.xenproject.org/wiki/Main_Page)
