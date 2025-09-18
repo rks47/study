@@ -5,6 +5,10 @@
 
 [Trusted Firmware](https://trustedfirmware-a.readthedocs.io/en/latest/index.html)
 
+
+SELinux Update - Paul Moore, Microsoft 
+[Youtube](https://www.youtube.com/watch?v=wng-Wo_Kruo)
+
 # Hypervisor for ARM EL2
 
 [XEN](https://wiki.xenproject.org/wiki/Main_Page)
