@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-
+#define DEBUG 0 //0 for no debug, 1 for debug
 
 typedef struct node 
 {
@@ -49,49 +49,43 @@ void printNode(NODE *head){
 printf("\n");
 }
 
-void addInShorted(NODE **head,uint32_t data)
-{   NODE* HEAD=*head,*prev=NULL;
+
+void addinshorted(NODE **head,uint32_t data){
+    NODE *HEAD=*head;
     NODE *newNode=(NODE*)malloc(sizeof(NODE));
     if(newNode==NULL)return;
     newNode->DATA=data;
     newNode->NEXT=NULL;
-    prev=HEAD;
-    printNode(*head);
-   
     if( HEAD == NULL){
         *head = newNode; return;
     }
-     getchar();
+#if DEBUG
+    printNode(*head);
+    getchar();
+#endif
     if((HEAD->DATA>data)&&(HEAD->NEXT==NULL)){
-        newNode->NEXT=prev;
+        newNode->NEXT=HEAD;
         *head=newNode;
         return;}
-    while((HEAD!=NULL)&&(HEAD->DATA<=data)){
-        prev=HEAD;
+    while((HEAD->NEXT!=NULL)&&(HEAD->NEXT->DATA<=data)){
         HEAD=HEAD->NEXT;
     }
-    if (prev == NULL){
-        HEAD->NEXT = newNode;
-    } else {
-        newNode->NEXT=HEAD;
-        prev->NEXT = newNode;
-    }
-    
+    newNode->NEXT=HEAD->NEXT;
+    HEAD->NEXT=newNode;
 }
-
 
 int main(int argc, char *argv[])
 {
 
     NODE *HEAD=NULL;
-    addInShorted(&HEAD,4);
-    addInShorted(&HEAD,2);
-    addInShorted(&HEAD,6);
-    addInShorted(&HEAD,3);
-    addInShorted(&HEAD,7);
-    addInShorted(&HEAD,2);
-    addInShorted(&HEAD,9);
-    addInShorted(&HEAD,12);
+    addinshorted(&HEAD,4);
+    addinshorted(&HEAD,2);
+    addinshorted(&HEAD,6);
+    addinshorted(&HEAD,3);
+    addinshorted(&HEAD,7);
+    addinshorted(&HEAD,2);
+    addinshorted(&HEAD,9);
+    addinshorted(&HEAD,12);
     printNode(HEAD);
     reverseList(&HEAD);
     printNode(HEAD);
