@@ -71,7 +71,7 @@ void addInShorted(NODE **head,uint32_t data)
         HEAD=HEAD->NEXT;
     }
     if (prev == NULL){
-        *head = newNode;
+        HEAD->NEXT = newNode;
     } else {
         newNode->NEXT=HEAD;
         prev->NEXT = newNode;
@@ -90,6 +90,8 @@ int main(int argc, char *argv[])
     addInShorted(&HEAD,3);
     addInShorted(&HEAD,7);
     addInShorted(&HEAD,2);
+    addInShorted(&HEAD,9);
+    addInShorted(&HEAD,12);
     printNode(HEAD);
     reverseList(&HEAD);
     printNode(HEAD);
