@@ -10,6 +10,10 @@ SELinux Update - Paul Moore, Microsoft
 [Youtube](https://www.youtube.com/watch?v=wng-Wo_Kruo)
 [Git WIKI](https://github.com/SELinuxProject/selinux-notebook/blob/main/src/title.md)
 
+
+https://watchfulip.github.io/28-12-24/tp-link_c210_v2.html
+
+
 # Hypervisor for ARM EL2
 
 [XEN](https://wiki.xenproject.org/wiki/Main_Page)
