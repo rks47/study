@@ -45,3 +45,6 @@ In-depth: ELF - The Extensible & Linkable Format
 https://linux-kernel-labs.github.io/refs/heads/master/index.html
 
 [Virtio: An I/O virtualization framework for Linux](https://developer.ibm.com/articles/l-virtio/)
+
+Mentorship Session:-
+[Youtube PlayList](https://www.youtube.com/watch?v=jsLjg9tGuVI&list=PLbzoR-pLrL6o8cdq_JLTwsLfe2_DhNsDf)
