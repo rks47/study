@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=zJzpCorv1JQ&list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbA
 
 CodeVault
 https://www.youtube.com/@CodeVault/playlists
+
+C Language Constructors and Destructors with GCC ,ELF
+https://www.youtube.com/watch?v=H4fpGDyef9Y
