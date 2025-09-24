@@ -21,6 +21,16 @@ https://www.youtube.com/watch?v=FJW8nGV4jxY
 https://www.youtube.com/watch?v=aUGNDJPpUUg
 
 
+See what your computer is doing with Ftrace utilities
+https://www.youtube.com/watch?v=68osT1soAPM
+
+# kdump
+Kexec/Kdump under the hood
+https://www.youtube.com/watch?v=0bkpQ_6jsEM
+
+
+https://www.youtube.com/watch?v=NDXYpR_m1CU
+
 # Strace 
 
 Tutorial: Debugging with Strace - A Peek Behind the Scenes of Linux Processes - Avikam Rozenfeld 

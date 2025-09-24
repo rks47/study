@@ -46,3 +46,18 @@ https://www.youtube.com/watch?v=JmpQ79h_0eA
 
 
 [ARM Documentation](https://developer.arm.com/documentation)
+
+# boards manuals
+RK3399:-
+https://wiki.t-firefly.com/en/ROC-RK3399-PC/ 
+
+Allwinner:-
+https://linux-sunxi.org/Main_Page
+
+Rock-chips:-
+https://opensource.rock-chips.com/wiki_Boot_option
+
+ti:-
+https://software-dl.ti.com/processor-sdk-linux/esd/docs/latest/linux/Foundational_Components/U-Boot/UG-General-Info.html
+
+![BOOT STEPS](image.png)
